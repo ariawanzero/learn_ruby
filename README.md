@@ -1,2 +1,2 @@
 # Learn Ruby 
-Learn ruby for beginner from 
+Learn ruby for beginner from https://learncodethehardway.org/

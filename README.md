@@ -1,2 +1,2 @@
-# learn_ruby
-Learn ruby for beginner
+# Learn Ruby 
+Learn ruby for beginner from 

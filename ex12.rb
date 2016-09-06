@@ -11,10 +11,10 @@ number = another.to_i
 smaller = number / 100
 puts "A smaller number is #{smaller}."
 
-print "Testing!!"
+print "Testing value: "
 value = gets.chomp.to_i
 puts "Your value #{value}"
 
-print "Testing Again!!"
+print "Testing value to float: "
 value_f = gets.chomp.to_f
 puts "Your valur float #{value_f}"
